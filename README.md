@@ -2,7 +2,7 @@
 
 The goal of this application is, given xls files with a specific format, get the information of claims and providers and save them in the database.
 
-It runs as a daemon checking if there are new files to process under a defined folder. After processing the files, it moves them to another folder called "processed".
+It runs as a daemon checking if there are new files to process under a defined folder. After processing the files, it moves them to another folder called "processed". 
 
 ## Prerequisites:
 
